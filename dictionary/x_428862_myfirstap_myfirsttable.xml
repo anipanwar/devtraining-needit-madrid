@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="MyFirstTable" max_length="40" name="x_428862_myfirstap_myfirsttable" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="FieldAddedByOutOfScopeApp" max_length="40" name="x_58872_needit_u_string_1" type="string"/>
+    </element>
+</database>
